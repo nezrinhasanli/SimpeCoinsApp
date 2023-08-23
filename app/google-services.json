@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545328009958",
+    "project_id": "coinapp-16df4",
+    "storage_bucket": "coinapp-16df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545328009958:android:12830e45106c37c0d86127",
+        "android_client_info": {
+          "package_name": "com.nezrin.coinsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545328009958-i0tm28jjiq7kr5hp13qmihspvv7v54q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCbaihcRsIei4rWZvz1g0R3UztnQolE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545328009958-i0tm28jjiq7kr5hp13qmihspvv7v54q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
